@@ -65,4 +65,112 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Getwebup is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.getwebup.in/
+
+**Areas:** Company
+
+## Getwebup on APIs.io
+
+Everything profiled for Getwebup is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getwebup/](https://apis.io/providers/getwebup/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Getwebup Cloud API](https://apis.io/apis/getwebup/getwebup-cloud-api/) — Manage your Getwebup Cloud servers from code.
+- [Getwebup Cloud API V1 API](https://apis.io/apis/getwebup/getwebup-cloud-api-v1-api/) — Manage your Getwebup Cloud servers from code. Production keys (cx_live_…) act on your real account; sandbox keys (cx_test_…) on a simulated copy where…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Getwebup Context](https://apis.io/jsonld/getwebup/getwebup-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Getwebup API Rules](https://apis.io/rules/getwebup/getwebup-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Getwebup Authentication](https://apis.io/security/getwebup/getwebup-authentication/)
+- [Getwebup Domain Security](https://apis.io/security/getwebup/getwebup-domain-security/)
+- [Getwebup Vulnerability Disclosure](https://apis.io/security/getwebup/getwebup-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Getwebup Scopes](https://apis.io/scopes/getwebup/getwebup-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.getwebup.in/)
+- [Documentation](https://www.getwebup.in/docs)
+- [API reference](https://www.getwebup.in/llms.txt)
+- [Pricing](https://www.getwebup.in/pricing)
+- [Blog](https://www.getwebup.in/blog/)
+- [Security](https://www.getwebup.in/privacy.php)
+- [Terms of service](https://www.getwebup.in/legal/terms)
+- [Privacy policy](https://www.getwebup.in/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 43.5** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 30.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 44.7 |
+
+**Agent readiness 25.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 40.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getwebup/](https://apis.io/providers/getwebup/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Getwebup: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getwebup/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
